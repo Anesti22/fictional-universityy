@@ -1,0 +1,32 @@
+[14-May-2019 18:21:26 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (16/05/2019) at position 0 (1): Unexpected character in /app/public/wp-content/themes/fictional-university-theme/front-page.php:43
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/front-page.php(43): DateTime->__construct('16/05/2019')
+#1 /app/public/wp-includes/template-loader.php(77): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 43
+[14-May-2019 18:21:29 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (16/05/2019) at position 0 (1): Unexpected character in /app/public/wp-content/themes/fictional-university-theme/front-page.php:43
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/front-page.php(43): DateTime->__construct('16/05/2019')
+#1 /app/public/wp-includes/template-loader.php(77): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 43
+[14-May-2019 18:22:03 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (16/05/2019) at position 0 (1): Unexpected character in /app/public/wp-content/themes/fictional-university-theme/front-page.php:43
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/front-page.php(43): DateTime->__construct('16/05/2019')
+#1 /app/public/wp-includes/template-loader.php(77): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 43
+[14-May-2019 18:22:04 UTC] PHP Fatal error:  Uncaught Exception: DateTime::__construct(): Failed to parse time string (16/05/2019) at position 0 (1): Unexpected character in /app/public/wp-content/themes/fictional-university-theme/front-page.php:43
+Stack trace:
+#0 /app/public/wp-content/themes/fictional-university-theme/front-page.php(43): DateTime->__construct('16/05/2019')
+#1 /app/public/wp-includes/template-loader.php(77): include('/app/public/wp-...')
+#2 /app/public/wp-blog-header.php(19): require_once('/app/public/wp-...')
+#3 /app/public/index.php(17): require('/app/public/wp-...')
+#4 {main}
+  thrown in /app/public/wp-content/themes/fictional-university-theme/front-page.php on line 43
